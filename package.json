@@ -43,7 +43,7 @@
     "configstore": "^0.3.1",
     "findup": "^0.1.5",
     "fullname": "^1.0.0",
-    "insight": "^0.4.2",
+    "insight": "^0.10.3",
     "is-root": "^1.0.0",
     "lodash": "^2.4.1",
     "multiline": "^0.3.4",
