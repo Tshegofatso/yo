@@ -42,7 +42,7 @@
     "chalk": "^0.5.1",
     "configstore": "^0.3.1",
     "findup": "^0.1.5",
-    "fullname": "^1.0.0",
+    "fullname": "^2.0.0",
     "insight": "^0.4.2",
     "is-root": "^1.0.0",
     "lodash": "^2.4.1",
