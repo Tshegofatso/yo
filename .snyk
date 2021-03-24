@@ -10,3 +10,6 @@ patch:
         patched: '2021-03-24T18:50:27.812Z'
     - yeoman-generator > file-utils > findup-sync > glob > minimatch:
         patched: '2021-03-24T18:50:27.812Z'
+  'npm:lodash:20180130':
+    - yeoman-generator > html-wiring > cheerio > lodash:
+        patched: '2021-03-24T18:51:14.786Z'
