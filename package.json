@@ -51,7 +51,7 @@
     "multiline": "^0.3.4",
     "nopt": "^3.0.0",
     "opn": "^1.0.0",
-    "shelljs": "^0.3.0",
+    "shelljs": "^0.8.4",
     "string-length": "^1.0.0",
     "sudo-block": "^1.0.0",
     "underscore.string": "^2.3.3",
