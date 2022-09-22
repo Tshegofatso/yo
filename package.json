@@ -52,10 +52,10 @@
     "nopt": "^3.0.0",
     "opn": "^1.0.0",
     "shelljs": "^0.8.4",
-    "string-length": "^1.0.0",
+    "string-length": "^2.0.0",
     "sudo-block": "^1.0.0",
     "underscore.string": "^2.3.3",
-    "update-notifier": "^0.2.0",
+    "update-notifier": "^6.0.0",
     "yeoman-generator": "^5.0.0",
     "yosay": "^1.0.0",
     "snyk": "^1.509.0"
